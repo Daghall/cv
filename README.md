@@ -2,16 +2,23 @@
 
 ## WORK EXPERIENCE
 
+### Senior web developer
+**Expressen, Stockholm\
+_June 2020 - current_**
+
+Due to the pandemic, a lot of consultants had to go.\
+I did not want to leave, so I jumped over to employment.
+
 ### Consultant, web developer, Expressen
-**Levels Tech, Stockholm,\
-_November 2016 - current_**
+**Levels Tech, Stockholm\
+_November 2016 - May 2020_**
 
 My boss quit his former job and co-created this company.\
 Since I appreciated him a lot I decided to join him.\
 I continued my assignment at Expressen:
 
 ### Consultant, web developer, Expressen
-**Dohi Innovation Agency, Stockholm,\
+**Dohi Innovation Agency, Stockholm\
 _May 2015 – October 2016_**
 
 I was on a consultant interview at Expressen before my first official
@@ -27,18 +34,15 @@ The work has an agile and test driven focus.
 
 _Keywords:_
 - TDD
-- Node.js
-- Express.js
-- Stylus
-- Gulp
 - Mocha/Mocha cakes
 - Chai
+- Node.js
+- Express.js
 - Git
-- Dust.js
-- Handlebars
+– CSS Preprocessers
 - Docker
-- Openshift
-- Sketch
+- OpenShift
+- GCP
 
 ### Web developer
 **Blocket.se, Stockholm\
