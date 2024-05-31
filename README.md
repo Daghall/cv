@@ -39,7 +39,7 @@ _Keywords:_
 - Node.js
 - Express.js
 - Git
-– CSS Preprocessers
+- CSS Preprocessers
 - Docker
 - OpenShift
 - GCP
